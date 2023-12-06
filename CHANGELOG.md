@@ -65,7 +65,7 @@ Here is an overview of all new **experimental** features:
 
 ### Fixes
 
-- **General**: TODO ([#XXX](https://github.com/kedacore/keda/issues/XXX))
+- **GCP pubsub scaler**: Added `project_id` to filter for metrics queries ([#5256](https://github.com/kedacore/keda/issues/5256))
 
 ### Deprecations
 
